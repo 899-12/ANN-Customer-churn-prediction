@@ -83,11 +83,12 @@ The key columns used in the model include:
    ```bash
    git clone https://github.com/your-repo-link
    cd customer-churn-ann
-   ```bash 
+ 
 2. **Install Dependencies**
     Install all required libraries from the requirements.txt file:
-'''python
+```python
   pip install -r requirements.txt
+```
 3. **Run the Streamlit Application**
 ```python
    streamlit run app.py
